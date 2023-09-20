@@ -14,3 +14,7 @@
 [<img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='Email' height='30'>](mailto:amta3003@gmail.com)
 &nbsp;&nbsp;&nbsp;
 [<img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg' alt='Facebook' height='30'>]( https://web.facebook.com/Abdulrahman.Mohamed.T)
+# 💻 Tech:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
+# 📊 Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanMohamedTawfik&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
