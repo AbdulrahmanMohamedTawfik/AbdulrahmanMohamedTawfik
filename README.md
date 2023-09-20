@@ -2,7 +2,7 @@
 <p><a href="https://www.asu.edu.eg/"><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="100" /></a></p>
 <h1 align="center">Hi 👋, I'm Abdulrhman Mohamed</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4500&color=FF123C&center=true&vCenter=true&width=710&height=25&lines=Competitive+Programmer+;Junior+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4500&color=8ac74b&center=true&vCenter=true&width=710&height=25&lines=Competitive+Programmer+;Senior+Software+Engineer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulrahmanMohamedTawfik&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulrahmanMohamedTawfik" /> 
  <img src="https://img.shields.io/github/followers/AbdulrahmanMohamedTawfik?label=Followers&color=0e75b6&style=flat" alt="Abdelrhman-Sayed70" height="21" width="100" />
